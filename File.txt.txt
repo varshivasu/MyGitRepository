@@ -13,3 +13,7 @@ public static void main
     obj.hellogit();
 
 }
+
+void myBisMethod(){
+    sysout("hi")
+}
