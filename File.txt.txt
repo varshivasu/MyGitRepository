@@ -5,11 +5,11 @@ class HelloGit{
 
 
    void hellogit(){
-sysout("helloGit welcome")
+sysout("helloGit welcome to all of you friends")
 }
 public static void main
 
     helloGIt obj=new hellogit();
-    obj.hellogit();
+    obj.hellogit("hello");
 
 }
