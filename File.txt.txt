@@ -1,0 +1,15 @@
+This is my firt git..... wecome to git!!!
+
+
+class HelloGit{
+
+
+   void hellogit(){
+sysout("helloGit welcome")
+}
+public static void main
+
+    helloGIt obj=new hellogit();
+    obj.hellogit();
+
+}
