@@ -7,7 +7,7 @@ class HelloGit{
    void hellogit(){
 sysout("helloGit welcome to all of you friends")
 }
-public static void main
+static public void main
 
     helloGIt obj=new hellogit();
     obj.hellogit("hello");
