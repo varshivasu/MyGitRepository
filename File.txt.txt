@@ -10,6 +10,6 @@ sysout("helloGit welcome to all of you friends")
 static public void main
 
     helloGIt obj=new hellogit();
-    obj.hellogit("hello");
+    obj.hellogit("hello hi");
 
 }
