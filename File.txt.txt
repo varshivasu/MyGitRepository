@@ -15,6 +15,6 @@ static public void main (string []){
     obj.hellogit("hello hi");
 >>>>>>> idea
 
-void myBisMethod(){
+public static void myBisMethod(){
     sysout("hi")
 }
