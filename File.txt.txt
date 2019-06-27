@@ -16,5 +16,5 @@ static public void main (string []){
 >>>>>>> idea
 
 public static void myBisMethod(){
-    sysout("hi")
+    system.out.println("hi")
 }
