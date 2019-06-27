@@ -4,13 +4,11 @@ This is my firt git..... wecome to git!!!
 class HelloGit{
 
 
-   void hellogit(){
+  static void hellogit(){
 sysout("helloGit welcome")
 }
-public static void main
-
-    helloGIt obj=new hellogit();
-    obj.hellogit();
+    public static void main
+     hellogit();
 
 }
 
